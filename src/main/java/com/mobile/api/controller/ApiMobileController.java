@@ -13,7 +13,7 @@ import java.io.*;
 import java.util.Map;
 
 /**
- * 用于跨网文件交换用讯
+ * 用于跨网文件交换通讯
  *
  * @author liyanjun
  */
